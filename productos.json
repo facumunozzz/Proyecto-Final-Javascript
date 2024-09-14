@@ -1,0 +1,91 @@
+[
+    {
+        "id": 1, 
+        "nombre": "Camiseta Titular CARP",
+        "club": "River Plate", 
+        "precio": 912,
+        "imagen": "https://marcadegol.com/fotos//2023/08/review-camiseta-titular-adidas-de-river-plate-2023-2024-1.jpg",
+        "categoria": {
+            "id_categoria": 1,
+            "nombre": "Camisetas"
+        }
+    },
+    {
+        "id": 2, 
+        "nombre": "Camiseta Titular CABJ", 
+        "club": "Boca Juniors", 
+        "precio": 500,
+        "imagen": "https://acdn.mitiendanube.com/stores/002/591/436/products/whatsapp-image-2024-01-22-at-11-28-14-am-2-51359e761e7629cf7f17059586897782-640-0-fc6c13c0a8fac9920617170853841568-480-0.webp",
+        "categoria": {
+            "id_categoria": 1,
+            "nombre": "Camisetas"
+        }
+        
+    },
+    {
+        "id": 3, 
+        "nombre": "Camiseta Titular RCA", 
+        "club": "Racing Club", 
+        "precio": 500,
+        "imagen": "https://marcadegol.com/fotos//2024/03/review-camisetas-kappa-de-racing-club-2024-1.jpg",
+        "categoria": {
+            "id_categoria": 1,
+            "nombre": "Camisetas"
+        }
+    },
+    {
+        "id": 4, 
+        "nombre": "Camiseta Titular CAI", 
+        "club": "Independiente de Avellaneda", 
+        "precio": 500,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxVnAqmcit-agenYH8zHaVBAFP8u3vzjA1Jg&s",
+        "categoria": {
+            "id_categoria": 1,
+            "nombre":"Camisetas"
+        }
+    },
+    {
+        "id": 5, 
+        "nombre": "Camperon River Plate", 
+        "club": "River Plate", 
+        "precio": 91218,
+        "imagen": "https://www.opensports.com.ar/media/catalog/product/cache/4769e4d9f3516e60f2b4303f8e5014a8/I/K/IK4028_0.jpg",
+        "categoria": {
+            "id_categoria": 2,
+            "nombre":"Camperones"
+        }
+    },
+    {
+        "id": 6, 
+        "nombre": "Camperon Boca Juniors", 
+        "club": "Boca Juniors", 
+        "precio": 90000,
+        "imagen": "https://celadasa.vtexassets.com/arquivos/ids/282871/HY0393-1.jpg?v=638497572900200000",
+        "categoria": {
+            "id_categoria": 2,
+            "nombre":"Camperones"
+        }
+    },
+    {
+        "id": 7, 
+        "nombre": "Camperon RCA", 
+        "club": "Racing Club", 
+        "precio": 90000,
+        "imagen": "https://acdn.mitiendanube.com/stores/001/312/744/products/whatsapp-image-2024-07-03-at-17-27-57-369109f50b4b796e5a17202020438345-640-0.jpeg",
+        "categoria": {
+            "id_categoria": 2,
+            "nombre":"Camperones"
+        }
+    },
+    {
+        "id": 8, 
+        "nombre": "Camperon Independiente", 
+        "club": "Independiente de Avellaneda", 
+        "precio": 90000,
+        "imagen": "https://acdn.mitiendanube.com/stores/384/008/products/camperon-de-independiente-puma-bench-gris-640020773562005-1-2-c186c62f66e971c85217251230755281-1024-1024.jpg",
+        "categoria": {
+            "id_categoria": 2,
+            "nombre":"Camperones"
+        }
+    }
+]
